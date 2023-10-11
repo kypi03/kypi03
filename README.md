@@ -1,7 +1,7 @@
 # Hi, I'm Kian!
 
 ## About Me:
-I'm constantly exploring new technologies and pushing myself to the edge (sometimes falling off the edge, but that's how we learn!). I do have a love-hate relationship with Python, and I think JavaScript is pretty cool. I'm also involved with CE academically at [University of Tehran](https://ut.ac.ir/en).
+I am constantly exploring new technologies, pushing myself to the edge, and embracing the learning experiences even when I stumble along the way. I do have a love-hate relationship with Python, and I think JavaScript is pretty cool. I'm also involved with CE academically at [University of Tehran](https://ut.ac.ir/en).
 
 # Connect with me  
 <div align="center">
